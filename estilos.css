@@ -137,18 +137,17 @@ padding-left: 10%;
 
 
 #Pregunta2 {
-    border-radius: 3%;
     background-color:#000000;
     width: 70%;
      border-style: solid;   
-     border-width: 2%;
+     
      border-color: rgb(255, 255, 255);
      border-width: 3%;
      box-shadow: 10px 10px 14px 2px rgba(0, 0, 0, 0.47);
     color:#ffffff ;
-    clear: both;
+
     margin-top:2% ;
-    margin-left:18% ;
+    margin-left:14% ;
     margin-bottom:3% ;
     
     }
@@ -158,7 +157,7 @@ padding-left: 10%;
         height:10%;
         width: 80%;
         float: none;
-        padding-left: 14%;
+        padding-left: 0%;
         
         }
 
